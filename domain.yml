@@ -21,6 +21,8 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
+  utter_thanks:
+  - text: Thank You very much!
 session_config:
   session_expiration_time: 65
   carry_over_slots_to_new_session: true
