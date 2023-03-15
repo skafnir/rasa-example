@@ -19,3 +19,7 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_thanks:
+  - text: "Great job, thanks!"
+
