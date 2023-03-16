@@ -50,6 +50,7 @@ nlu:
     - no way
     - not really
     - nope
+    - nein
 
 - intent: mood_great
   examples: |
